@@ -1,1 +1,17 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body {
+    font-family: cursive;
+    background-color: #e6cf84;
+    color: #381a09;
+}
+
+header {
+    background-color: #47341c;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
