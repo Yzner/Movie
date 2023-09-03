@@ -11,7 +11,11 @@ body {
 }
 
 header {
-    background-color: #47341c;
+    background-color: #8c5dc2;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
+}
+p {
+    margin-left: 40px;
+    margin-right: 40px;
 }
